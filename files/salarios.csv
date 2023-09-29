@@ -1,0 +1,101 @@
+nombre,apellido_paterno,edad,sexo,grado_de_estudios,anios_experiencia_laboral,empresa_actual,puesto_actual,anios_en_empresa_actual,salario_mensual_bruto,salario_mensual_neto,salario_anual
+Pedro,Lopez,52,Masculino,Bachillerato,14,Empresa A,Analista de Datos,2,6438,5150.400000000001,77256
+Juan,Fernandez,56,Femenino,Licenciatura,13,Empresa B,Analista de Datos,12,6826,5460.8,81912
+Luis,Diaz,51,Masculino,Licenciatura,22,Empresa C,Contador,13,6875,5500.0,82500
+Carlos,Garcia,25,Femenino,Licenciatura,1,Empresa B,Ingeniero de Software,15,8559,6847.200000000001,102708
+Carlos,Perez,51,Femenino,Licenciatura,8,Empresa E,Contador,10,7345,5876.0,88140
+David,Fernandez,35,Femenino,Maestria,12,Empresa D,Disenador Grafico,9,6867,5493.6,82404
+Juan,Martinez,59,Femenino,Bachillerato,13,Empresa A,Gerente de Ventas,6,4076,3260.8,48912
+Juan,Gonzalez,53,Femenino,Maestria,21,Empresa B,Analista de Datos,0,4995,3996.0,59940
+Carlos,Torres,50,Masculino,Bachillerato,29,Empresa B,Disenador Grafico,14,4996,3996.8,59952
+Pedro,Diaz,23,Femenino,Doctorado,3,Empresa B,Contador,1,6594,5275.200000000001,79128
+David,Martinez,44,Femenino,Licenciatura,6,Empresa C,Disenador Grafico,1,5982,4785.6,71784
+David,Perez,39,Masculino,Licenciatura,9,Empresa A,Contador,14,4064,3251.2000000000003,48768
+Carlos,Rodriguez,49,Masculino,Maestria,17,Empresa A,Contador,8,3601,2880.8,43212
+Elena,Lopez,22,Masculino,Doctorado,3,Empresa A,Analista de Datos,13,9676,7740.8,116112
+Elena,Lopez,36,Masculino,Bachillerato,19,Empresa E,Contador,6,9921,7936.8,119052
+Luis,Torres,25,Femenino,Bachillerato,5,Empresa B,Contador,7,8791,7032.8,105492
+Carlos,Torres,60,Femenino,Doctorado,5,Empresa E,Analista de Datos,0,9285,7428.0,111420
+Juan,Lopez,40,Femenino,Licenciatura,29,Empresa A,Gerente de Ventas,15,9493,7594.400000000001,113916
+Ana,Gonzalez,60,Femenino,Doctorado,30,Empresa E,Disenador Grafico,5,5246,4196.8,62952
+Pedro,Gonzalez,34,Femenino,Doctorado,2,Empresa C,Ingeniero de Software,7,7612,6089.6,91344
+Sofia,Diaz,38,Femenino,Bachillerato,19,Empresa D,Ingeniero de Software,15,4038,3230.4,48456
+Carlos,Garcia,25,Femenino,Licenciatura,1,Empresa C,Disenador Grafico,13,7695,6156.0,92340
+Luis,Gonzalez,56,Masculino,Doctorado,25,Empresa E,Disenador Grafico,7,3986,3188.8,47832
+Sofia,Garcia,47,Femenino,Bachillerato,17,Empresa A,Gerente de Ventas,11,4619,3695.2000000000003,55428
+Pedro,Diaz,39,Masculino,Bachillerato,21,Empresa B,Contador,0,5173,4138.400000000001,62076
+Pedro,Perez,33,Femenino,Bachillerato,5,Empresa B,Ingeniero de Software,7,3261,2608.8,39132
+Maria,Perez,58,Femenino,Doctorado,10,Empresa B,Disenador Grafico,15,8941,7152.8,107292
+Maria,Diaz,56,Masculino,Maestria,24,Empresa D,Contador,9,8001,6400.8,96012
+Luis,Torres,58,Femenino,Doctorado,15,Empresa C,Gerente de Ventas,7,7127,5701.6,85524
+Maria,Diaz,57,Masculino,Doctorado,10,Empresa C,Ingeniero de Software,2,5554,4443.2,66648
+Laura,Fernandez,31,Femenino,Maestria,22,Empresa B,Gerente de Ventas,9,5754,4603.2,69048
+Pedro,Martinez,56,Femenino,Doctorado,24,Empresa D,Ingeniero de Software,15,4297,3437.6000000000004,51564
+Carlos,Martinez,48,Femenino,Bachillerato,3,Empresa E,Ingeniero de Software,7,7888,6310.400000000001,94656
+Maria,Rodriguez,23,Femenino,Maestria,22,Empresa B,Contador,14,7318,5854.400000000001,87816
+Luis,Gonzalez,48,Femenino,Maestria,28,Empresa C,Gerente de Ventas,4,6483,5186.400000000001,77796
+Juan,Diaz,47,Masculino,Bachillerato,11,Empresa D,Analista de Datos,7,8097,6477.6,97164
+Elena,Hernandez,47,Femenino,Licenciatura,19,Empresa A,Contador,5,5399,4319.2,64788
+Luis,Lopez,48,Femenino,Licenciatura,27,Empresa D,Contador,12,9727,7781.6,116724
+Sofia,Lopez,51,Masculino,Licenciatura,18,Empresa A,Gerente de Ventas,2,3449,2759.2000000000003,41388
+Pedro,Perez,47,Femenino,Maestria,23,Empresa C,Gerente de Ventas,15,9732,7785.6,116784
+David,Garcia,34,Masculino,Bachillerato,21,Empresa B,Gerente de Ventas,8,4875,3900.0,58500
+Elena,Diaz,23,Masculino,Doctorado,24,Empresa E,Disenador Grafico,7,9302,7441.6,111624
+David,Martinez,38,Masculino,Doctorado,7,Empresa D,Contador,7,6937,5549.6,83244
+David,Perez,51,Masculino,Maestria,29,Empresa A,Ingeniero de Software,15,7309,5847.200000000001,87708
+Maria,Martinez,24,Masculino,Doctorado,2,Empresa D,Disenador Grafico,0,9624,7699.200000000001,115488
+Carlos,Gonzalez,43,Masculino,Bachillerato,27,Empresa D,Contador,6,7900,6320.0,94800
+Maria,Gonzalez,43,Masculino,Doctorado,18,Empresa C,Gerente de Ventas,3,3222,2577.6000000000004,38664
+Laura,Diaz,26,Masculino,Maestria,7,Empresa B,Gerente de Ventas,9,4630,3704.0,55560
+Luis,Diaz,23,Masculino,Doctorado,0,Empresa B,Analista de Datos,6,5399,4319.2,64788
+David,Fernandez,34,Masculino,Doctorado,12,Empresa E,Analista de Datos,6,7423,5938.400000000001,89076
+Carlos,Martinez,29,Masculino,Doctorado,7,Empresa B,Disenador Grafico,5,6511,5208.8,78132
+Maria,Gonzalez,52,Femenino,Licenciatura,12,Empresa A,Ingeniero de Software,9,8320,6656.0,99840
+David,Lopez,51,Masculino,Doctorado,28,Empresa B,Analista de Datos,15,5603,4482.400000000001,67236
+Ana,Perez,55,Femenino,Bachillerato,0,Empresa E,Ingeniero de Software,6,7799,6239.200000000001,93588
+Pedro,Rodriguez,48,Femenino,Doctorado,5,Empresa D,Disenador Grafico,9,8082,6465.6,96984
+Pedro,Rodriguez,54,Femenino,Licenciatura,17,Empresa C,Analista de Datos,12,5703,4562.400000000001,68436
+Ana,Lopez,28,Masculino,Licenciatura,23,Empresa D,Ingeniero de Software,2,4425,3540.0,53100
+Luis,Hernandez,52,Femenino,Maestria,1,Empresa C,Ingeniero de Software,3,4610,3688.0,55320
+Carlos,Lopez,33,Masculino,Doctorado,4,Empresa D,Contador,14,8155,6524.0,97860
+Maria,Fernandez,42,Femenino,Licenciatura,17,Empresa E,Disenador Grafico,11,3552,2841.6000000000004,42624
+David,Diaz,24,Masculino,Maestria,22,Empresa B,Ingeniero de Software,10,7238,5790.400000000001,86856
+Sofia,Rodriguez,26,Femenino,Licenciatura,26,Empresa C,Gerente de Ventas,6,6920,5536.0,83040
+Carlos,Rodriguez,50,Femenino,Doctorado,13,Empresa A,Gerente de Ventas,12,3174,2539.2000000000003,38088
+Juan,Lopez,48,Femenino,Licenciatura,14,Empresa D,Ingeniero de Software,0,3449,2759.2000000000003,41388
+Carlos,Lopez,46,Femenino,Doctorado,25,Empresa D,Ingeniero de Software,2,5548,4438.400000000001,66576
+Carlos,Lopez,42,Masculino,Maestria,10,Empresa B,Contador,3,4204,3363.2000000000003,50448
+Elena,Lopez,31,Masculino,Maestria,22,Empresa A,Ingeniero de Software,0,7362,5889.6,88344
+Ana,Martinez,46,Femenino,Maestria,30,Empresa E,Analista de Datos,12,7678,6142.400000000001,92136
+Ana,Gonzalez,39,Masculino,Doctorado,27,Empresa B,Ingeniero de Software,6,6959,5567.200000000001,83508
+Sofia,Garcia,31,Femenino,Licenciatura,29,Empresa D,Gerente de Ventas,1,7411,5928.8,88932
+Carlos,Diaz,60,Masculino,Maestria,6,Empresa A,Analista de Datos,4,6337,5069.6,76044
+Elena,Garcia,43,Femenino,Bachillerato,20,Empresa C,Analista de Datos,8,7480,5984.0,89760
+Maria,Torres,34,Femenino,Doctorado,13,Empresa D,Ingeniero de Software,10,7228,5782.400000000001,86736
+Juan,Hernandez,23,Femenino,Bachillerato,5,Empresa E,Gerente de Ventas,1,5762,4609.6,69144
+Carlos,Gonzalez,22,Femenino,Bachillerato,16,Empresa B,Contador,7,6445,5156.0,77340
+Luis,Martinez,26,Masculino,Doctorado,14,Empresa B,Contador,7,9279,7423.200000000001,111348
+Pedro,Garcia,34,Masculino,Licenciatura,6,Empresa C,Ingeniero de Software,2,8825,7060.0,105900
+Carlos,Garcia,43,Masculino,Bachillerato,26,Empresa E,Analista de Datos,7,5005,4004.0,60060
+Laura,Fernandez,30,Masculino,Maestria,14,Empresa E,Analista de Datos,6,7889,6311.200000000001,94668
+Elena,Diaz,40,Masculino,Bachillerato,0,Empresa D,Gerente de Ventas,3,7389,5911.200000000001,88668
+Maria,Martinez,51,Femenino,Bachillerato,29,Empresa E,Disenador Grafico,1,7652,6121.6,91824
+Carlos,Gonzalez,55,Femenino,Doctorado,28,Empresa D,Analista de Datos,6,8524,6819.200000000001,102288
+David,Perez,47,Femenino,Licenciatura,5,Empresa C,Analista de Datos,12,4666,3732.8,55992
+Sofia,Martinez,30,Femenino,Doctorado,27,Empresa D,Disenador Grafico,8,5658,4526.400000000001,67896
+Carlos,Hernandez,42,Femenino,Maestria,4,Empresa D,Contador,1,8908,7126.400000000001,106896
+Pedro,Garcia,47,Femenino,Maestria,9,Empresa B,Ingeniero de Software,14,5179,4143.2,62148
+Juan,Martinez,29,Femenino,Maestria,26,Empresa B,Gerente de Ventas,15,5356,4284.8,64272
+Elena,Hernandez,33,Femenino,Doctorado,12,Empresa B,Disenador Grafico,12,6040,4832.0,72480
+Juan,Torres,55,Femenino,Doctorado,6,Empresa B,Disenador Grafico,14,9205,7364.0,110460
+Luis,Diaz,30,Masculino,Maestria,22,Empresa C,Contador,10,5243,4194.400000000001,62916
+Pedro,Martinez,52,Masculino,Licenciatura,13,Empresa A,Analista de Datos,9,4392,3513.6000000000004,52704
+Maria,Rodriguez,26,Femenino,Licenciatura,4,Empresa B,Gerente de Ventas,4,7377,5901.6,88524
+Laura,Rodriguez,23,Masculino,Maestria,12,Empresa D,Contador,12,7018,5614.400000000001,84216
+Ana,Perez,46,Femenino,Bachillerato,21,Empresa D,Ingeniero de Software,4,8937,7149.6,107244
+Sofia,Martinez,58,Masculino,Maestria,9,Empresa C,Gerente de Ventas,8,3847,3077.6000000000004,46164
+Laura,Perez,44,Femenino,Maestria,1,Empresa D,Disenador Grafico,13,7273,5818.400000000001,87276
+Laura,Garcia,59,Masculino,Doctorado,2,Empresa C,Disenador Grafico,15,4001,3200.8,48012
+Maria,Lopez,54,Masculino,Bachillerato,28,Empresa D,Contador,0,5108,4086.4,61296
+Ana,Fernandez,33,Femenino,Licenciatura,27,Empresa D,Gerente de Ventas,4,8522,6817.6,102264
+Maria,Torres,53,Masculino,Bachillerato,1,Empresa B,Contador,11,8708,6966.400000000001,104496
